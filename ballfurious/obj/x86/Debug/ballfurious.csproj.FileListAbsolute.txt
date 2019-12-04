@@ -1,0 +1,811 @@
+C:\Users\sahar\AppData\Local\Temporary Projects\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\sahar\AppData\Local\Temporary Projects\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\sahar\AppData\Local\Temporary Projects\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\sahar\AppData\Local\Temporary Projects\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\sahar\AppData\Local\Temporary Projects\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\sahar\AppData\Local\Temporary Projects\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\sahar\AppData\Local\Temporary Projects\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\AppData\Local\Temporary Projects\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\sahar\AppData\Local\Temporary Projects\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\sahar\AppData\Local\Temporary Projects\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\sahar\Desktop\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose2.resources
+C:\Users\sahar\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+F:\project\2\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+F:\project\2\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose2.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+F:\project\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose2.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\z.abok\Desktop\2\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose2.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+E:\project\4\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+E:\project\4\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose2.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\sahar\Desktop\New folder (3)\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\s.aluk\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+E:\project\7\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+E:\project\7\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english3.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose2.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+E:\project\7\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+E:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+E:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+F:\project\8\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+F:\project\8\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english3.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose2.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\project\8\ballfurious\ballfurious\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose2.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\z.abok\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose2.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\User\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose2.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\z.abok\Desktop\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+F:\project\10\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+F:\project\10\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\User\Desktop\תחזוקה\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\sahar\Documents\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\sahar\OneDrive\Pictures\New WinRAR ZIP أرشيف (2)\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\sahar\Pictures\2014\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\z.abok\Desktop\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\sahar\Pictures\2014\19\18\9\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\s.eske\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\sahar\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+F:\project\22\20\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+F:\project\22\20\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+F:\project\22\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\z.abok\Desktop\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+F:\project\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+F:\project\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\sahar\Desktop\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\z.abok\Desktop\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+F:\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+F:\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\s.aluk\Desktop\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+F:\project\24\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+F:\project\24\פרויקט שלאנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\z.abok\Desktop\24\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\sahar\Desktop\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csprojResolveAssemblyReference.cache
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form9.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+F:\project\26\25\פרויקט שלנו\aa\23\20\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.exe
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pdb
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.english2.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form1.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form10.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form2.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form3.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form4.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form5.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form6.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form7.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Form8.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.game.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.gameXO.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.hangman.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.help.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.lose.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.maht.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.mazegame.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.million.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.print.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.pacman.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.peacesnacke.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.Properties.Resources.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.satart2.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.start.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.win.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.wincolor.resources
+C:\Users\User\Desktop\ballfurious\ballfurious\obj\x86\Debug\ballfurious.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ballfurious\ballfurious\bin\Debug\ballfurious.exe
+C:\Users\User\Desktop\ballfurious\ballfurious\bin\Debug\ballfurious.pdb
