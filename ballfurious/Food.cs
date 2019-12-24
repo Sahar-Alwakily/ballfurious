@@ -41,6 +41,7 @@ namespace ballfurious
             }
             catch
             {
+                ;;
             }
         }
 
